@@ -90,10 +90,12 @@ publishing:
     enablePrettyRefs: true
     enableKatex: true
     copyAssets: true
+    assetsPrefix: /dendron-jbuf
     siteHierarchies:
         - root
     writeStubs: false
     siteRootDir: docs
+    siteUrl: https://digital-botanical-gardens-initiative.github.io
     seo:
         title: Dendron
         description: Personal Knowledge Space
@@ -102,6 +104,8 @@ publishing:
         editLinkText: Edit this page on GitHub
         editBranch: main
         editViewMode: tree
+        editRepository: >-
+            https://github.com/digital-botanical-gardens-initiative/dendron-jbuf
     enableSiteLastModified: true
     enableFrontmatterTags: true
     enableHashesForFMTags: false
