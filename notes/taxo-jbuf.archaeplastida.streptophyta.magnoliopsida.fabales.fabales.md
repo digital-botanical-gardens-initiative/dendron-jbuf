@@ -1,9 +1,9 @@
 ---
-id: vfbciukgv0q03uzzpzbi57x
+id: vc4zaggcgj98j002lw76kkl
 title: Fabales
 desc: ''
-updated: 1655572207883
-created: 1655572207883
+updated: 1655572327850
+created: 1655572327850
 isDir: false
 ---
 This is the page dedicated to **Fabales**

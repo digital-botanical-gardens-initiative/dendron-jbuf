@@ -1,9 +1,9 @@
 ---
-id: ik68hgvar0hgmsb0z3k4t0u
+id: 5yaezg7il8qxo4pnhfk8up1
 title: Vitales
 desc: ''
-updated: 1655572207889
-created: 1655572207889
+updated: 1655572327861
+created: 1655572327861
 isDir: false
 ---
 This is the page dedicated to **Vitales**

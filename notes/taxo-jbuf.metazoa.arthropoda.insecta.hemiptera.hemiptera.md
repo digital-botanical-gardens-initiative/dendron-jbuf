@@ -1,9 +1,9 @@
 ---
-id: oa7n29cwnwwhavsqk2uhh7i
+id: hbxabi9bxza7onzjqxzw7go
 title: Hemiptera
 desc: ''
-updated: 1655572207891
-created: 1655572207891
+updated: 1655572327864
+created: 1655572327864
 isDir: false
 ---
 This is the page dedicated to **Hemiptera**

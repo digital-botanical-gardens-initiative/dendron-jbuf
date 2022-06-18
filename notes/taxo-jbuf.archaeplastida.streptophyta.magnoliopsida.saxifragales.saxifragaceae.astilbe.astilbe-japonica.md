@@ -1,9 +1,9 @@
 ---
-id: 6zi76oaywpd17twf3puo3t0
+id: mdcpw67etecp9kfnd4k7ch4
 title: Astilbe Japonica
 desc: ''
-updated: 1655572208060
-created: 1655572208060
+updated: 1655572328039
+created: 1655572328039
 isDir: false
 ---
 This is the page dedicated to **Astilbe_japonica**

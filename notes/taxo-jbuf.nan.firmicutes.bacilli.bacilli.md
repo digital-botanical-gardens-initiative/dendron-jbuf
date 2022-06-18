@@ -1,9 +1,9 @@
 ---
-id: ypzi31qt88xj8xaezlkcr21
+id: knm6j4vh80ms5jugj9r7v85
 title: Bacilli
 desc: ''
-updated: 1655572207877
-created: 1655572207877
+updated: 1655572327843
+created: 1655572327843
 isDir: false
 ---
 This is the page dedicated to **Bacilli**

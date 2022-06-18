@@ -1,9 +1,9 @@
 ---
-id: gigs1u2kxje7vmsre1wslbt
+id: mf16tvklo9klp6om7957ax3
 title: Lamiales
 desc: ''
-updated: 1655572207884
-created: 1655572207884
+updated: 1655572327852
+created: 1655572327852
 isDir: false
 ---
 This is the page dedicated to **Lamiales**

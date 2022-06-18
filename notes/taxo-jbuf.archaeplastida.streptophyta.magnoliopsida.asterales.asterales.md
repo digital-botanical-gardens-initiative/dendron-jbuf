@@ -1,9 +1,9 @@
 ---
-id: 7yjnyiws92xcvescn8anqdb
+id: 4kscn1o4italap36p7lokae
 title: Asterales
 desc: ''
-updated: 1655572207879
-created: 1655572207879
+updated: 1655572327846
+created: 1655572327846
 isDir: false
 ---
 This is the page dedicated to **Asterales**

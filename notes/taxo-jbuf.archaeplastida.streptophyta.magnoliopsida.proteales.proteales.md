@@ -1,9 +1,9 @@
 ---
-id: gst6zrc9pmxxwuvaft5wzjj
+id: marnpg2mmas3v0ricqseyv8
 title: Proteales
 desc: ''
-updated: 1655572207887
-created: 1655572207887
+updated: 1655572327857
+created: 1655572327857
 isDir: false
 ---
 This is the page dedicated to **Proteales**

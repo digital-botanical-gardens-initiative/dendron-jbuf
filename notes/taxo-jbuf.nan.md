@@ -1,9 +1,9 @@
 ---
-id: 3e0ktbfs6kvyughrigdvcon
+id: lawtx10tm2xa6psef4bfzsl
 title: Nan
 desc: ''
-updated: 1655572207870
-created: 1655572207870
+updated: 1655572327836
+created: 1655572327836
 isDir: false
 ---
 This is the page dedicated to **nan**
@@ -12,14 +12,14 @@ This is the page dedicated to **nan**
 ## OTOL Taxonomy
 
 
-Direct link to OTOL entry: https://tree.opentreeoflife.org/opentree/argus/opentree13.4@ott1   NaN
+Direct link to OTOL entry: https://tree.opentreeoflife.org/opentree/argus/opentree13.4@ott3125   NaN
 Name: ott_id, dtype: float64
 
 
 
 <html>
     <body>
-    <iframe src="https://tree.opentreeoflife.org/opentree/argus/opentree13.4@ott1   NaN
+    <iframe src="https://tree.opentreeoflife.org/opentree/argus/opentree13.4@ott3125   NaN
 Name: ott_id, dtype: float64"
     width="800" height="400" frameborder="0" allowfullscreen> </iframe>
     </body>

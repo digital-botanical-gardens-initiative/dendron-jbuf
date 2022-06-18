@@ -1,9 +1,9 @@
 ---
-id: iin4zgiepm4gov5xt2lxwfm
+id: 09ogtegznnhovyqhv27x4xd
 title: Echinopsis (Genus in Kingdom Archaeplastida)
 desc: ''
-updated: 1655572207913
-created: 1655572207913
+updated: 1655572327882
+created: 1655572327882
 isDir: false
 ---
 This is the page dedicated to **Echinopsis_(genus_in_kingdom_Archaeplastida)**

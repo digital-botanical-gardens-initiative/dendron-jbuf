@@ -1,9 +1,9 @@
 ---
-id: un1cnhaybm6oorwhe4nx29a
+id: gfyjpfdgmmhgilply7i47vu
 title: Buxales
 desc: ''
-updated: 1655572207880
-created: 1655572207880
+updated: 1655572327847
+created: 1655572327847
 isDir: false
 ---
 This is the page dedicated to **Buxales**

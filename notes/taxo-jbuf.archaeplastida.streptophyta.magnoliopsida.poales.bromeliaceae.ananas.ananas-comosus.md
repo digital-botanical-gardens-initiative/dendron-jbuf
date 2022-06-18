@@ -1,9 +1,9 @@
 ---
-id: vf3r3x4rzgf6ulr625n6a9c
+id: 4wi13wiie6lll43hkzmy6fz
 title: Ananas Comosus
 desc: ''
-updated: 1655572208037
-created: 1655572208037
+updated: 1655572328011
+created: 1655572328011
 isDir: false
 ---
 This is the page dedicated to **Ananas_comosus**

@@ -1,9 +1,9 @@
 ---
-id: tsk7ztp6oqrhov1x45ly9ja
+id: 6nsga0zu5ednzanf2yfv9rm
 title: Malpighiales
 desc: ''
-updated: 1655572207886
-created: 1655572207886
+updated: 1655572327854
+created: 1655572327854
 isDir: false
 ---
 This is the page dedicated to **Malpighiales**

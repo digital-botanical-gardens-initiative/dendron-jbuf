@@ -1,9 +1,9 @@
 ---
-id: w2jgk1ftp3wu6wi2ppybu8u
+id: 0cri5n7rpkg94ud9vvakk4l
 title: Lycopodiopsida
 desc: ''
-updated: 1655572207872
-created: 1655572207872
+updated: 1655572327837
+created: 1655572327837
 isDir: false
 ---
 This is the page dedicated to **Lycopodiopsida**
