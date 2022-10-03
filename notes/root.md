@@ -2,7 +2,7 @@
 id: af6esocr7vhbkunxmlier56
 title: Root
 desc: ''
-updated: 1664814502103
+updated: 1664815233145
 created: 1655570826398
 ---
 # Species list of the Botanical Garden of the University of Fribourg (BGUniFr)
@@ -13,7 +13,7 @@ created: 1655570826398
 This website is a Dendron based website. If you don't know what this is about have a look at [The Dendron Home Page](https://wiki.dendron.so/).
 
 This project is part of the [Digital Botanical Garden Initiative](https://www.dbgi.org/dendron-dbgi/).
-In the frame of the DBGI, we have curated the species list of the Botanical Garden of the University of Fribourg ([BGUniFr](https://www.unifr.ch/jardin-botanique/fr/)), which is displayed in the current website.
+In the frame of the DBGI, we have curated the species list of the Botanical Garden of the University of Fribourg ([BGUniFr](https://www.unifr.ch/jardin-botanique/fr/) and https://www.wikidata.org/wiki/Q27480249), which is displayed in the current website.
 
 
 
@@ -50,5 +50,5 @@ The Dendron structure seemed particularly adapted for the navigation within a ta
 
 ## I have a question or a comment !
 
-Use the link at the bottom of any of the pages to create an issue on Github.
+Use the link at the bottom of any of the pages to create an issue on Github. Yes, down there ! 👇 
 
