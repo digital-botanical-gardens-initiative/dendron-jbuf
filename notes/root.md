@@ -1,8 +1,8 @@
 ---
 id: af6esocr7vhbkunxmlier56
-title: Root
+title: BGUniFr Dendron Species List
 desc: ''
-updated: 1664815233145
+updated: 1664815565196
 created: 1655570826398
 ---
 # Species list of the Botanical Garden of the University of Fribourg (BGUniFr)
